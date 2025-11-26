@@ -32,9 +32,9 @@
 
 ---
 
-### 📈 Leetcode Stats
+### 📈 LeetCode Stats
 <p align="center">
-  [![Umang's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=user1110rN)](https://github.com/Codeshot2002/leetcode-stats)
+  <img src="https://leetcard.jacoblin.cool/user1110rN?theme=dark&font=Baloo%202&ext=contest" />
 </p>
 
 ---
