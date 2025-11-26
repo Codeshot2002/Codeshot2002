@@ -32,10 +32,9 @@
 
 ---
 
-### 📈 GitHub Stats  
+### 📈 Leetcode Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codeshot2002&show_icons=true&theme=react" alt="stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeshot2002&layout=compact&theme=react" alt="langs" height="160"/>
+  [![Umang's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=user1110rN)](https://github.com/Codeshot2002/leetcode-stats)
 </p>
 
 ---
